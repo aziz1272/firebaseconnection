@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489819985105",
+    "project_id": "fireconnection-347a7",
+    "storage_bucket": "fireconnection-347a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489819985105:android:84fda0d60cfcdd1dd321f0",
+        "android_client_info": {
+          "package_name": "com.firelesson.firebaseconnection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbR1vk9mzVyo0IFrXL3Bhsooy95y56eaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
